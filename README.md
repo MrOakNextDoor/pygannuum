@@ -1,1 +1,2 @@
-# Annuum's Pygame Extensions!
+# Pygannuum
+Annuum's Pygame Extensions!
